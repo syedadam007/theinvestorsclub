@@ -531,11 +531,11 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 .bgc-oxford-blue{
 	background-color:rgba(17,39,62,0.90);
 }
-.bgc-raw-umber{
-	background-color:#736047;
-}
 .bgc-medium-jungle-green{
 	background-color:#192636;
+}
+.bgc-raw-umber{
+	background-color:#736047;
 }
 
 /* Text colour styles */
@@ -710,10 +710,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 		text-align:left;
 	}
 	.weekly-padding{
-		padding-top:40px;
-		padding-bottom:40px;
-	}
-	.discord-padding{
 		padding-top:40px;
 		padding-bottom:40px;
 	}
